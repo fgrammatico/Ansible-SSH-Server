@@ -1,0 +1,4 @@
+---
+- hosts: yourhost.com
+  roles:
+     - SSH_Server
