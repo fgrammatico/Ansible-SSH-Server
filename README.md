@@ -56,7 +56,7 @@ None.
     - ssh_remove_deprecated_server_keys: false
     - ssh_port: 1813
   roles:
-    - { role: elnappo.secure_openssh_server }
+    - { role: fmg.secure_openssh_server }
 ```
 
 ## License
